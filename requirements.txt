@@ -1,0 +1,11 @@
+langchain==0.1.16
+langchain-core==0.1.43
+langchain-community==0.0.33
+langsmith==0.1.17
+langchain-openai==0.0.7
+unstructured[md]==0.6.7
+faiss-cpu==1.7.3
+python-dotenv==1.0.0
+
+
+

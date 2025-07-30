@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+venvpip/
+freeze/
+
+# Ignore Python egg info
+*.egg-info/
+
+# Ignore environment variables files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore executable files
+*.exe
+
+# Ignore pycache in any folder
+**/__pycache__/
+
+# Ignore pyc files anywhere
+*.pyc
+
+bfg-1.14.0.jar
+*.dll
+*.lib
+*.pyo
