@@ -74,6 +74,6 @@ The bot pulls its responses from onboarding materials stored in data/
 
 You can swap in your own docs to suit different products or industries
 
-Currently runs in a local terminal — ideal for testing or prototyping
+Currently runs in a local terminal, ideal for testing or prototyping
 
 ```
