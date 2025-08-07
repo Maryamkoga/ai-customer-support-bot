@@ -26,11 +26,10 @@ It uses LangChain and Python to simulate how businesses can integrate conversati
 
 ## 💡 Why This Exists
 
-Chatbots are widely used — but this project shows how anyone can build a lightweight, adaptable version without needing a large team or infrastructure.
+Chatbots are widely used — but this project shows how anyone can build a lightweight, adaptable version.
 
 It's not about complexity. It's about:
 
-- Reducing repetitive support overhead
 - Making onboarding more accessible
 - Experimenting with AI to solve real usability problems
 
